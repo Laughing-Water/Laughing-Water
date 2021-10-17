@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laughing-Water
+- 👋 Hi, I’m Rebecca (@Laughing-Water)
 - 👀 I’m interested in learning as much as I can!
 - 🌱 I’m currently learning apex coding and Lightning Web Components
 - 💞️ I will be looking to collaborate in the future
